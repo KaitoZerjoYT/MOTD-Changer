@@ -1,0 +1,6 @@
+name: MOTDChanger
+version: 1.0
+main: net.kaito.proxy.Main
+author: Kaito
+
+description: MOTDChanger is a simple WaterdogPE plugin that changes your server’s MOTD every 60 seconds.
